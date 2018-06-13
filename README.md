@@ -1,2 +1,3 @@
-# POC-docz
-POC to use https://www.docz.site/ instead of storybook
+#Docz Theme Building
+
+Attempting to build a Docz Theme
