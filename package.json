@@ -1,9 +1,9 @@
 {
-  "name": "poc-docz",
+  "name": "docz-theme",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/wilomgfx/POC-docz.git",
-  "author": "William Cantin <william.cantin@broadsign.com>",
+  "repository": "",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "dev": "docz dev",
