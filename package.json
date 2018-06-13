@@ -1,0 +1,40 @@
+{
+  "name": "poc-docz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wilomgfx/POC-docz.git",
+  "author": "William Cantin <william.cantin@broadsign.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "docz dev",
+    "build": "docz build"
+  },
+  "devDependencies": {
+    "@types/prismjs": "^1.9.0",
+    "babel-plugin-emotion": "^9.2.0",
+    "docz": "^0.2.2",
+    "rollup-plugin-svg": "^1.0.1"
+  },
+  "dependencies": {
+    "@types/react": "^16.3.17",
+    "awesome-typescript-loader": "^5.0.0",
+    "emotion": "^9.2.1",
+    "emotion-theming": "^9.2.1",
+    "fast-deep-equal": "^2.0.1",
+    "install": "^0.11.0",
+    "lodash": "^4.17.10",
+    "lodash.merge": "^4.6.1",
+    "npm": "^6.1.0",
+    "prismjs": "^1.14.0",
+    "prop-types": "15.6.1",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-emotion": "^9.2.1",
+    "react-feather": "^1.1.0",
+    "react-lightweight-tooltip": "^1.0.0",
+    "react-powerplug": "^1.0.0-alpha.7",
+    "react-spinners": "^0.3.2",
+    "styled-components": "^3.3.2",
+    "typescript": "^2.9.1"
+  }
+}
